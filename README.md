@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Your Projects](https://www.upwork.com/freelancers/joesonc)
 
-- 💬 Ask me about **anything, I am happy to help 🤝;**
+- 💬 Ask me about **anything, I am happy to help 🤝**
 
 - 📫 How to reach me **clervejoeson@gmail.com 🍻**
 
