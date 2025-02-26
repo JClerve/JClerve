@@ -32,7 +32,7 @@
   </li>
   <li>
     <p>
-    ⚡ Fun fact **I am a Dinosaur 🦖**
+    ⚡ Fun fact I am a Demon Slayer 🗡️
     </p>
   </li>
 </ul>
