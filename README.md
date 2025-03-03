@@ -3,46 +3,33 @@
   Welcome to Den of Dev!
   <img align="right" src="clapper.gif" height="150">
 </h1>
-<br>
 
-<p>Hi! My name is <b>Joeson</b> <b>Clerve</b>. I am a <b>Full Stack Software Engineer 💻</b> <br>Get ready to unleash my coding powers 😎</p> 
-<br>
+<p>Hi! My name is <b>Joeson</b> <b>Clerve</b>. I am a <b>Full Stack Software Engineer 💻</b><br>Get ready to unleash my coding powers 😎</p>
 
 <h1>
   About Me
   <img src="reel.gif" height="50">
 </h1>
-<br>
 
 <ul>
   <li>
-    <p>
-    🔭 I'm currently working on a web application that makes everyone's lives much easier :)
-    </p>
+    <p>🔭 I'm currently working on a web application that makes everyone's lives much easier :)</p>
   </li>
   <li>
-    <p>
-      🌱 I'm currently learning <b>Docker, Kubernetes, and DevOps.</b>
-    </p>
+    <p>🌱 I'm currently learning <b>Docker, Kubernetes, and DevOps.</b></p>
   </li>
   <li>
-    <p>
-      💬Ask me about **anything, I am happy to help</b>
-    </p>
+    <p>💬Ask me about <b>anything, I am happy to help</b></p>
   </li>
   <li>
-    <p>
-    ⚡ Fun fact I am a Demon Slayer 🗡️
-    </p>
+    <p>⚡ Fun fact I am a Demon Slayer 🗡️</p>
   </li>
 </ul>
-<br>
 
 <h1>
   Tech Stack
   <img src="filming.gif" height="70">
 </h1>
-<br>
 
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" height="50"></a>
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg" height="50"></a>
@@ -72,13 +59,11 @@
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" height="50"></a>
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" height="50"></a>
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" height="50"></a>
-<br><br>
 
 <h1>
 Find Me
 <img src="cap.gif" height="50">
 </h1>
-<br>
 
 <a href="mailto:clervejoeson@gmail.com"><img src="https://github.com/ItsMyBlackAxe/ItsMyBlackAxe/blob/main/gmail.svg" height="30"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joeson-clerve/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="40"></a>&nbsp;&nbsp;&nbsp;
