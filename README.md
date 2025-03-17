@@ -2,7 +2,6 @@
   <h1>
     <img src="coffee.gif" height="50">
     Welcome to Den of Dev!
-    <img src="clapper.gif" height="50">
   </h1>
 </div>
 
@@ -12,7 +11,6 @@
   <h1>
     <img src="reel.gif" height="50">
     About Me
-    <img src="reel.gif" height="50">
   </h1>
 </div>
 
@@ -25,7 +23,6 @@
   <h1>
     <img src="filming.gif" height="50">
     Tech Stack
-    <img src="filming.gif" height="50">
   </h1>
 </div>
 
@@ -64,7 +61,6 @@
   <h1>
     <img src="cap.gif" height="50">
     Find Me
-    <img src="cap.gif" height="50">
   </h1>
 </div>
 
