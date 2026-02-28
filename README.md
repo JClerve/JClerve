@@ -1,10 +1,10 @@
-# Welcome to Den of Dev! <img src="coffee.gif" height="50">
+# Welcome to Den of Dev! 
 
 Hi! My name is **Joeson Clerve**. I am a **Full Stack Software Engineer 💻**  
 Get ready to unleash my coding powers 😎
 
 
-# About Me <img src="reel.gif" height="50">
+# About Me 
 
 - 🔭 I'm currently working on a web application that makes everyone's lives much easier :)
 - 🌱 I'm currently learning **Docker, Kubernetes, and DevOps.**
@@ -12,7 +12,7 @@ Get ready to unleash my coding powers 😎
 - ⚡ Fun fact I am a Demon Slayer 🗡️
 
 
-# Tech Stack <img src="filming.gif" height="50">
+# Tech Stack 
 
 <div>
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" height="50">
@@ -46,7 +46,7 @@ Get ready to unleash my coding powers 😎
 </div>
 
 
-# Find Me <img src="cap.gif" height="50">
+# Find Me 
 
 <div>
   <a href="mailto:clervejoeson@gmail.com"><img src="https://github.com/ItsMyBlackAxe/ItsMyBlackAxe/blob/main/gmail.svg" height="40"></a>&nbsp;&nbsp;&nbsp;
