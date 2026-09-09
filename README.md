@@ -1,8 +1,10 @@
-# Welcome to Den of Dev! 
-
-Hi! My name is **Joeson Clerve**. I am a **Full Stack Software Engineer 💻**  
-Get ready to unleash my coding powers 😎
-
+<div align="center">
+  <h2>Joeson Clerve</h2>
+  <img
+    src="https://count.getloli.com/@ItsMyBlackAxe?theme=booru-lewd&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"
+    alt="ItsMyBlackAxe visitor counter"
+  />
+</div>
 
 # About Me 
 
