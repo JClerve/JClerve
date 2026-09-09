@@ -1,9 +1,5 @@
-<div align="center">
-  <h2>Joeson Clerve</h2>
-  <img
-    src="https://count.getloli.com/@ItsMyBlackAxe?theme=booru-lewd&padding=7&scale=1&align=center&pixelated=1&darkmode=auto"
-    alt="ItsMyBlackAxe visitor counter"
-  />
+<div>
+    <img src="https://count.getloli.com/get/@iAJue.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
 # About Me 
