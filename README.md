@@ -14,7 +14,7 @@
 
 <div align="left">
   <img
-    src="https://skillicons.dev/icons?i=java,spring,js,react,python,aws,docker,kubernetes,git,github,kafka,postgres,postman,mysql,nodejs,npm,bootstrap,kotlin,php,c,express,flutter,linux,go,redis,css,html,firebase&perline=14"
+    src="https://skillicons.dev/icons?i=java,spring,js,react,python,aws,docker,kubernetes,git,github,kafka,postgres,postman,mysql,nodejs,npm,bootstrap,kotlin,php,c,express,flutter,linux,go,redis,css,html,firebase,dotnet&perline=14"
     alt="Joeson's Tech Stack"
   />
 </div>
